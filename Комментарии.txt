@@ -1,0 +1,4 @@
+В dbo.persons заменил
+[date_uneploy] [datetime] NULL,
+на 
+[date_unemploy] [datetime] NULL,
